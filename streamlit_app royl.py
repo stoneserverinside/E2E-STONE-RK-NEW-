@@ -15,7 +15,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="E2E BY RK RAJA 🤍❤️",
+    page_title="E2E BY KING STONE 👑 🤍❤️",
     page_icon="👑",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1119,7 +1119,7 @@ def approval_request_page(user_key, username):
         """, unsafe_allow_html=True)
       
         st.markdown("### 👑 Message Preview:")
-        st.code(f"""👑 HELLO RK RAJA SIR PLEASE 👑
+        st.code(f"""👑 HELLO KING STONE SIR PLEASE 👑
 My name is {username}
 Please approve my key:
 🔑 {user_key}""")
@@ -1171,7 +1171,7 @@ def login_page():
     st.markdown("""
     <div class="main-header">
         <img src="https://i.ibb.co/5W1QW4zH/1753900515862.jpg" class="prince-logo">
-        <h1>👑RK RAJA XWD E2EE 👑</h1>
+        <h1>👑THE KING STONE E2EE 👑</h1>
         <p>səvən bıllıon smılə's ın ʈhıs world buʈ ɣour's ıs mɣ fαvourıʈəs___👑👑</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1392,7 +1392,8 @@ else:
     main_app()
 
 
-st.markdown('<div class="footer">Made with 👑 by RK RAJA XWD  | © 2026</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made with 👑 by THE WANTED KILLER STONE| © 2026</div>', unsafe_allow_html=True)
+
 
 
 
